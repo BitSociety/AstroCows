@@ -1,5 +1,5 @@
 # Astro Cows by Bit Society
-The first stream, meant to be an introduction to unity and programming in C#.
+The first tutorial project, meant to be an introduction to unity and programming in C#.
  
 It is a simple game, a homage to Flappy Bird and other games of its ilk.
 
